@@ -8,9 +8,13 @@ Clone my-project from github
 
 git clone https://github.com/t3t3us/HiJack
 
+install the dependencies
+
+pip install selenium requests webdriver-manager
+
 Enter the URL to be tested: https://example.com
 
 Run my script with python3
 
-  python3 HiJack.py
+python3 HiJack.py
   
