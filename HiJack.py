@@ -42,7 +42,6 @@ def toma_jack():
         "Toma jack na via gaúcha",
         "Toma jack toda vida",
         "Toma jack dos menor que tem ódio",
-        "Toma jack dos cria da GRA"
     ]
     print(f"\n\033[1;35m{random.choice(mensagens)}\033[0m\n")
     time.sleep(1)
