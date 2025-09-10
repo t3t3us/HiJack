@@ -12,10 +12,11 @@ install the dependencies
 
 pip install selenium requests webdriver-manager
 
-Enter the URL to be tested: https://example.com
-
 Run my script with python3
 
 python3 HiJack.py
+
+Enter the URL to be tested: https://example.com
+
 
 
