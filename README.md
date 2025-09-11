@@ -10,7 +10,8 @@ git clone https://github.com/t3t3us/HiJack
 
 install the dependencies
 
-pip install selenium requests webdriver-manager
+sudo apt install python3-requests
+python3 -m pip install selenium webdriver-manager --break-system-packages
 
 Run my script with python3
 
